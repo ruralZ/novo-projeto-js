@@ -5,3 +5,5 @@ function nomeMensagem(tag,texto) {
     mensagem.innerhtml = texto
 
 }
+
+nomeMensagem('h1', 'ola mundo') 
